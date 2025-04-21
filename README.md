@@ -2,4 +2,4 @@
 this is new repository
 hello world
 how are you
-have you eaten something
+have you eaten (food)
